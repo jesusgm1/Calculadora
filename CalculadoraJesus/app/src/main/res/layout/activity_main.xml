@@ -14,7 +14,7 @@
         android:layout_height="14dp"
         android:layout_weight="1"
         android:text="0"
-        android:textColor="#E91E63"
+        android:textColor="#18F71C"
         android:textSize="30sp" />
 
     <EditText
