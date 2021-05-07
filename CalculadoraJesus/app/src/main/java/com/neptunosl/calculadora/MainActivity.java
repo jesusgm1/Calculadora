@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        btn_division = findViewById(R.id.button9);
+        btn_division = findViewById(R.id.Division);
         btn_division.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
